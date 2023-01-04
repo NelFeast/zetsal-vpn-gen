@@ -9,7 +9,7 @@ npm i
 3. Edit file config.json
  ```
  {
-      "proxy_server": "<proxy>", Contoh --> 192.168.192:8080
+      "proxy_server": "<proxy>", Ex --> 192.168.192:8080
       "username": "<username>",
       "password": "<password>",
       "captcha_api": "<captcha_api>" --> API dari https://2captcha.com
