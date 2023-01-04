@@ -1,2 +1,2 @@
-# zetsal-vpn-gen
+# Zetsal VPN Generator
 test
