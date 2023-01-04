@@ -15,4 +15,6 @@ npm i
   }
 ```
 3. Klik file start.bat
-4. ENJOY!!!
+![alt text](https://i.imgur.com/lWGKNNs.png)
+![alt text](https://i.imgur.com/ggj4fD1.png)
+5. ENJOY!!!
