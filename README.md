@@ -1,0 +1,2 @@
+# zetsal-vpn-gen
+test
