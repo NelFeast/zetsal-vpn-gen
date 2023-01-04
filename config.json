@@ -1,0 +1,6 @@
+{
+    "proxy_server": "zproxy.lum-superproxy.io:22225",
+    "username": "brd-customer-hl_96e5d59b-zone-datacenter",
+    "password": "xo4ymc4zmqoa",
+    "captcha_api": "db806668d094218c396db7352340129d"
+}

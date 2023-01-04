@@ -1,0 +1,20 @@
+{
+  "name": "zetsal-vpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "NelFeast",
+  "license": "ISC",
+  "dependencies": {
+    "2captcha": "^3.0.5",
+    "figlet": "^1.5.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^19.4.1",
+    "random-email": "^1.0.3",
+    "unique-username-generator": "^1.1.3"
+  }
+}
