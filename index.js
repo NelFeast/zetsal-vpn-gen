@@ -2,7 +2,7 @@ const { init } = require("./core/Init");
 const figlet = require('figlet');
 const prompt = require('prompt-sync')();
 
-// OUT DATED
+// OUT DATED TRIAL END
 
 (async() => {
     console.log('\x1b[31m%s\x1b[0m', figlet.textSync('ACCOUNT ZETSAL VPN', { whitespaceBreak: true }));
